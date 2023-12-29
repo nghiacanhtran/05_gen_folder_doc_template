@@ -3,7 +3,7 @@ sinh tu dong struct folder document template
 
 # Cách dùng
 - Tạo folder Gen trong ổ C
-- Lưu trữ file main.ps1 tại folder Gen
+- Lưu trữ file Gen-Folder.ps1 tại folder Gen
 # Cách chạy file
 - Mở powershell
 - cd tới thư mục cần sinh template
